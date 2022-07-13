@@ -13,3 +13,5 @@ http://localhost:8888/names/development
 
 http://localhost:8888/names/production
 
+spring-cloud-config-client
+
